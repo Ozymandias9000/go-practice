@@ -1,0 +1,62 @@
+package handlers
+
+import (
+	"encoding/json"
+	"go-todo/domain"
+	"net/http"
+	"time"
+
+	"github.com/go-chi/chi"
+	"github.com/go-chi/chi/middleware"
+)
+
+type Server struct {
+	domain *domain.Domain
+}
+
+func setupMiddlewares(r *chi.Mux) {
+	r.Use(middleware.RequestID)
+	r.Use(middleware.RealIP)
+	r.Use(middleware.Compress(6, "application/json"))
+	r.Use(middleware.Logger)
+	r.Use(middleware.Recoverer)
+	r.Use(middleware.URLFormat)
+	r.Use(middleware.Timeout(60 * time.Second))
+}
+
+func NewServer(d *domain.Domain) *Server {
+	return &Server{domain: d}
+}
+
+func SetupRouter(d *domain.Domain) *chi.Mux {
+	s := NewServer(d)
+
+	r := chi.NewRouter()
+	setupMiddlewares(r)
+
+	s.setupEndpoints(r)
+
+	return r
+}
+
+func jsonResponse(w http.ResponseWriter, data interface{}, statusCode int) {
+	w.Header().Set("Content-Type:", "application/json")
+
+	w.WriteHeader(statusCode)
+
+	if data == nil {
+		data = map[string]string{}
+	}
+
+	if err := json.NewEncoder(w).Encode(data); err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	return
+}
+
+func badRequestResponse(w http.ResponseWriter, err error) {
+	response := map[string]string{"error": err.Error()}
+	jsonResponse(w, response, http.StatusBadRequest)
+}
