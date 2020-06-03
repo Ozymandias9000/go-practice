@@ -1,0 +1,3358 @@
+2020/06/03 08:03:18 Player Name: Juuso Valimaki
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexander Yelesin
+2020/06/03 08:03:18 Number: 45
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Giordano
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Milan Lucic
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikael Backlund
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Travis Hamonic
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Stone
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: TJ Brodie
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zac Rinaldo
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cam Talbot
+2020/06/03 08:03:18 Number: 39
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Derek Forbort
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Johnny Gaudreau
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tobias Rieder
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Jankowski
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Erik Gustafsson
+2020/06/03 08:03:18 Number: 56
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Elias Lindholm
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sean Monahan
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sam Bennett
+2020/06/03 08:03:18 Number: 93
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrew Mangiapane
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Noah Hanifin
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Rasmus Andersson
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Oliver Kylington
+2020/06/03 08:03:18 Number: 58
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Derek Ryan
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matthew Tkachuk
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dillon Dube
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: David Rittich
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: James van Riemsdyk
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Samuel Morin
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Oskar Lindblom
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Chris Stewart
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nate Thompson
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brian Elliott
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Niskanen
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Claude Giroux
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Justin Braun
+2020/06/03 08:03:18 Number: 61
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jakub Voracek
+2020/06/03 08:03:18 Number: 93
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Derek Grant
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Pitlick
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevin Hayes
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sean Couturier
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Scott Laughton
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Shayne Gostisbehere
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Raffl
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Robert Hagg
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Travis Sanheim
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nicolas Aube-Kubel
+2020/06/03 08:03:18 Number: 62
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Travis Konecny
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ivan Provorov
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Philippe Myers
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carter Hart
+2020/06/03 08:03:18 Number: 79
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joel Farabee
+2020/06/03 08:03:18 Number: 49
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jay Bouwmeester
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vladimir Tarasenko
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexander Steen
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Troy Brouwer
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: David Perron
+2020/06/03 08:03:18 Number: 57
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carl Gunnarsson
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Robert Bortuzzo
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Pietrangelo
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake Allen
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marco Scandella
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Bozak
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan O'Reilly
+2020/06/03 08:03:18 Number: 90
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brayden Schenn
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Justin Faulk
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jaden Schwartz
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Binnington
+2020/06/03 08:03:18 Number: 50
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Colton Parayko
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Oskar Sundqvist
+2020/06/03 08:03:18 Number: 70
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mackenzie MacEachern
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jacob de la Rose
+2020/06/03 08:03:18 Number: 61
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zach Sanford
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ivan Barbashev
+2020/06/03 08:03:18 Number: 49
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sammy Blais
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vince Dunn
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Kyrou
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Robert Thomas
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Colin Wilson
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Calvert
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nazem Kadri
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Philipp Grubauer
+2020/06/03 08:03:18 Number: 31
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikko Rantanen
+2020/06/03 08:03:18 Number: 96
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Erik Johnson
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ian Cole
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Hutchinson
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Barberio
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevin Connauton
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joonas Donskoi
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Nieto
+2020/06/03 08:03:18 Number: 83
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Gabriel Landeskog
+2020/06/03 08:03:18 Number: 92
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vladislav Namestnikov
+2020/06/03 08:03:18 Number: 90
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Graves
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andre Burakovsky
+2020/06/03 08:03:18 Number: 95
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: J.T. Compher
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nathan MacKinnon
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Valeri Nichushkin
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nikita Zadorov
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pierre-Edouard Bellemare
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vladislav Kamenev
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyson Jost
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Samuel Girard
+2020/06/03 08:03:18 Number: 49
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cale Makar
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pavel Francouz
+2020/06/03 08:03:18 Number: 39
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jakob Chychrun
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brad Richardson
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carl Soderberg
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Goligoski
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Niklas Hjalmarsson
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Grabner
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Phil Kessel
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jason Demers
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Derek Stepan
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Oliver Ekman-Larsson
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Darcy Kuemper
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Taylor Hall
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vinnie Hinostroza
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Antti Raanta
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Oesterle
+2020/06/03 08:03:18 Number: 82
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Schmaltz
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Christian Dvorak
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Christian Fischer
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Lawson Crouse
+2020/06/03 08:03:18 Number: 67
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Conor Garland
+2020/06/03 08:03:18 Number: 83
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Clayton Keller
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Barrett Hayton
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ilya Lyubushkin
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Casey Cizikas
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Pelech
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Johnny Boychuk
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrew Ladd
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Thomas Greiss
+2020/06/03 08:03:18 Number: 1
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andy Greene
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Leo Komarov
+2020/06/03 08:03:18 Number: 47
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cal Clutterbuck
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Derick Brassard
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Semyon Varlamov
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Thomas Hickey
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Josh Bailey
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Eberle
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Martin
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Leddy
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anders Lee
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brock Nelson
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tom Kuhnhackl
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jean-Gabriel Pageau
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Scott Mayfield
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Pulock
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ross Johnston
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Dal Colle
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Devon Toews
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mathew Barzal
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anthony Beauvillier
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Otto Koivula
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Noah Dobson
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Micheal Haley
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Henrik Lundqvist
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marc Staal
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brendan Smith
+2020/06/03 08:03:18 Number: 42
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Chris Kreider
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Greg McKegg
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jesper Fast
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Strome
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mika Zibanejad
+2020/06/03 08:03:18 Number: 93
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Phillip Di Giuseppe
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jacob Trouba
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pavel Buchnevich
+2020/06/03 08:03:18 Number: 89
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tony DeAngelo
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brendan Lemieux
+2020/06/03 08:03:18 Number: 48
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Igor Shesterkin
+2020/06/03 08:03:18 Number: 31
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Artemi Panarin
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Fox
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Lindgren
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Julien Gauthier
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brett Howden
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Filip Chytil
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexandar Georgiev
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kaapo Kakko
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jacob Markstrom
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Micheal Ferland
+2020/06/03 08:03:18 Number: 79
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Josh Leivo
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Guillaume Brisebois
+2020/06/03 08:03:18 Number: 56
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Loui Eriksson
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexander Edler
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Sutter
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jay Beagle
+2020/06/03 08:03:18 Number: 83
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Myers
+2020/06/03 08:03:18 Number: 57
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordie Benn
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Antoine Roussel
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Christopher Tanev
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Toffoli
+2020/06/03 08:03:18 Number: 73
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Louis Domingue
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: J.T. Miller
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tanner Pearson
+2020/06/03 08:03:18 Number: 70
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Motte
+2020/06/03 08:03:18 Number: 64
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Bo Horvat
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake Virtanen
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Thatcher Demko
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brock Boeser
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Gaudette
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Troy Stecher
+2020/06/03 08:03:18 Number: 51
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zack MacEwen
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Elias Pettersson
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Oscar Fantenberg
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Quinn Hughes
+2020/06/03 08:03:18 Number: 43
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Borowiecki
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anders Nilsson
+2020/06/03 08:03:18 Number: 31
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Craig Anderson
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ron Hainsey
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Bobby Ryan
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Artem Anisimov
+2020/06/03 08:03:18 Number: 51
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikkel Boedker
+2020/06/03 08:03:18 Number: 89
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matthew Peca
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mike Reilly
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Chris Tierney
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Connor Brown
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Scott Sabourin
+2020/06/03 08:03:18 Number: 49
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marcus Hogberg
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anthony Duclair
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Paul
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jayce Hawryluk
+2020/06/03 08:03:18 Number: 79
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andreas Englund
+2020/06/03 08:03:18 Number: 39
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Colin White
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Thomas Chabot
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Christian Wolanin
+2020/06/03 08:03:18 Number: 86
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Rudolfs Balcers
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nikita Zaitsev
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brady Tkachuk
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andreas Johnsson
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ilya Mikheyev
+2020/06/03 08:03:18 Number: 65
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jason Spezza
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake Muzzin
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kyle Clifford
+2020/06/03 08:03:18 Number: 73
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: John Tavares
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyson Barrie
+2020/06/03 08:03:18 Number: 94
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Martin Marincin
+2020/06/03 08:03:18 Number: 52
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Justin Holl
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zach Hyman
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jack Campbell
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Frederik Andersen
+2020/06/03 08:03:18 Number: 31
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Morgan Rielly
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cody Ceci
+2020/06/03 08:03:18 Number: 83
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexander Kerfoot
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Frederik Gauthier
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: William Nylander
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kasperi Kapanen
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pierre Engvall
+2020/06/03 08:03:18 Number: 47
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Travis Dermott
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mitchell Marner
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Denis Malgin
+2020/06/03 08:03:18 Number: 62
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Auston Matthews
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Calle Rosen
+2020/06/03 08:03:18 Number: 48
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Rasmus Sandin
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dryden Hunt
+2020/06/03 08:03:18 Number: 73
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sam Montembeault
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brian Boyle
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Keith Yandle
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anton Stralman
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Colton Sceviour
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Evgenii Dadonov
+2020/06/03 08:03:18 Number: 63
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mike Hoffman
+2020/06/03 08:03:18 Number: 68
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Erik Haula
+2020/06/03 08:03:18 Number: 56
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sergei Bobrovsky
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brett Connolly
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Pysyk
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonathan Huberdeau
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mike Matheson
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Chris Driedger
+2020/06/03 08:03:18 Number: 60
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dominic Toninato
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: MacKenzie Weegar
+2020/06/03 08:03:18 Number: 52
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Josh Brown
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Aleksander Barkov
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Aaron Ekblad
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Lucas Wallmark
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Frank Vatrano
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Noel Acciari
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Aleksi Saarela
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Riley Stillman
+2020/06/03 08:03:18 Number: 61
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake Guentzel
+2020/06/03 08:03:18 Number: 59
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Patrick Marleau
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Evgeni Malkin
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sidney Crosby
+2020/06/03 08:03:18 Number: 87
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jack Johnson
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kris Letang
+2020/06/03 08:03:18 Number: 58
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Patric Hornqvist
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Justin Schultz
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brian Dumoulin
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jason Zucker
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Bjugstad
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Bryan Rust
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Murray
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Teddy Blueger
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Chad Ruhwedel
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tristan Jarry
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Conor Sheary
+2020/06/03 08:03:18 Number: 43
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jared McCann
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marcus Pettersson
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sam Lafferty
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anthony Angello
+2020/06/03 08:03:18 Number: 57
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: John Marino
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Evan Rodrigues
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dominik Simon
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Tanev
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zach Aston-Reese
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Juuso Riikola
+2020/06/03 08:03:18 Number: 50
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carson Soucy
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikko Koivu
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Eric Staal
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Suter
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zach Parise
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Devan Dubnyk
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Stalock
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Greg Pateryn
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jared Spurgeon
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marcus Foligno
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mats Zuccarello
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Victor Rask
+2020/06/03 08:03:18 Number: 49
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonas Brodin
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brad Hunt
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Galchenyuk
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Dumba
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Hartman
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevin Fiala
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Donato
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Greenway
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joel Eriksson Ek
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Luke Kunin
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Danny DeKeyser
+2020/06/03 08:03:18 Number: 65
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Filip Zadina
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dennis Cholowski
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Valtteri Filppula
+2020/06/03 08:03:18 Number: 51
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Trevor Daley
+2020/06/03 08:03:18 Number: 83
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Frans Nielsen
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonathan Ericsson
+2020/06/03 08:03:18 Number: 52
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jimmy Howard
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Justin Abdelkader
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Darren Helm
+2020/06/03 08:03:18 Number: 43
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Biega
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonathan Bernier
+2020/06/03 08:03:18 Number: 45
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sam Gagner
+2020/06/03 08:03:18 Number: 89
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cody Goloubef
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Patrik Nemeth
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Luke Glendening
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Erne
+2020/06/03 08:03:18 Number: 73
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Madison Bowey
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Bertuzzi
+2020/06/03 08:03:18 Number: 59
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anthony Mantha
+2020/06/03 08:03:18 Number: 39
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brendan Perlini
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dylan Larkin
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Robby Fabbri
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Christoffer Ehn
+2020/06/03 08:03:18 Number: 70
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dmytro Timashov
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Filip Hronek
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Gustav Lindstrom
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sami Vatanen
+2020/06/03 08:03:18 Number: 45
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dougie Hamilton
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brett Pesce
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Justin Williams
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: James Reimer
+2020/06/03 08:03:18 Number: 47
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Staal
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake Gardiner
+2020/06/03 08:03:18 Number: 51
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nino Niederreiter
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Petr Mrazek
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Dzingel
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vincent Trocheck
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joel Edmundson
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brady Skjei
+2020/06/03 08:03:18 Number: 76
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Teuvo Teravainen
+2020/06/03 08:03:18 Number: 86
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Martinook
+2020/06/03 08:03:18 Number: 48
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brock McGinn
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jaccob Slavin
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Trevor van Riemsdyk
+2020/06/03 08:03:18 Number: 57
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Haydn Fleury
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Warren Foegele
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sebastian Aho
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Martin Necas
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrei Svechnikov
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ilya Kovalchuk
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Ovechkin
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: T.J. Oshie
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nicklas Backstrom
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carl Hagelin
+2020/06/03 08:03:18 Number: 62
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Lars Eller
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: John Carlson
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Braden Holtby
+2020/06/03 08:03:18 Number: 70
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dmitry Orlov
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Richard Panik
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Jensen
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nic Dowd
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brenden Dillon
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Radko Gudas
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Evgeny Kuznetsov
+2020/06/03 08:03:18 Number: 92
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Travis Boyd
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tom Wilson
+2020/06/03 08:03:18 Number: 43
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Garnet Hathaway
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jakub Vrana
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonas Siegenthaler
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ilya Samsonov
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michal Kempny
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jeff Carter
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dustin Brown
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anze Kopitar
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonathan Quick
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Trevor Lewis
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Drew Doughty
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Martin Frk
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nikolai Prokhorkin
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ben Hutton
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joakim Ryan
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kurtis MacDermid
+2020/06/03 08:03:18 Number: 56
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Calvin Petersen
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adrian Kempe
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Amadio
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Austin Wagner
+2020/06/03 08:03:18 Number: 51
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Roy
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Trevor Moore
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikey Anderson
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Gabriel Vilardi
+2020/06/03 08:03:18 Number: 42
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Iafallo
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sean Walker
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Blake Lizotte
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Tuch
+2020/06/03 08:03:18 Number: 89
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Pirri
+2020/06/03 08:03:18 Number: 73
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Deryk Engelland
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marc-Andre Fleury
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Paul Stastny
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Reaves
+2020/06/03 08:03:18 Number: 75
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Max Pacioretty
+2020/06/03 08:03:18 Number: 67
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alec Martinez
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Holden
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brayden McNabb
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Reilly Smith
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Robin Lehner
+2020/06/03 08:03:18 Number: 90
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jon Merrill
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Stone
+2020/06/03 08:03:18 Number: 61
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Cousins
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: William Karlsson
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonathan Marchessault
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Chandler Stephenson
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nate Schmidt
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Shea Theodore
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: William Carrier
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tomas Nosek
+2020/06/03 08:03:18 Number: 92
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nicolas Roy
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zach Whitecloud
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Travis Zajac
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cory Schneider
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: P.K. Subban
+2020/06/03 08:03:18 Number: 76
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kyle Palmieri
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Fredrik Claesson
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Damon Severson
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Connor Carrick
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nikita Gusev
+2020/06/03 08:03:18 Number: 97
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Will Butcher
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: John Hayden
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Miles Wood
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mirco Mueller
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dakota Mermis
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pavel Zacha
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mackenzie Blackwood
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevin Rooney
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joey Anderson
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jesper Bratt
+2020/06/03 08:03:18 Number: 63
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael McLeod
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nico Hischier
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jack Hughes
+2020/06/03 08:03:18 Number: 86
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Erik Gudbranson
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Miller
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Getzlaf
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: David Backes
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Del Zotto
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Henrique
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jakob Silfverberg
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nicolas Deslauriers
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrew Agozzino
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Irwin
+2020/06/03 08:03:18 Number: 52
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cam Fowler
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Josh Manson
+2020/06/03 08:03:18 Number: 42
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: John Gibson
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Rickard Rakell
+2020/06/03 08:03:18 Number: 67
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Hampus Lindholm
+2020/06/03 08:03:18 Number: 47
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Christian Djoos
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carter Rowney
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sonny Milano
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Danton Heinen
+2020/06/03 08:03:18 Number: 43
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jacob Larsson
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sam Steel
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Max Jones
+2020/06/03 08:03:18 Number: 49
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joakim Nygard
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mike Smith
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mike Green
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: James Neal
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kris Russell
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Ennis
+2020/06/03 08:03:18 Number: 63
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikko Koskinen
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Chiasson
+2020/06/03 08:03:18 Number: 39
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zack Kassian
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Riley Sheahan
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Josh Archibald
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Nugent-Hopkins
+2020/06/03 08:03:18 Number: 93
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Larsson
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Oscar Klefbom
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jujhar Khaira
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andreas Athanasiou
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Benning
+2020/06/03 08:03:18 Number: 83
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Darnell Nurse
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Leon Draisaitl
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Connor McDavid
+2020/06/03 08:03:18 Number: 97
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ethan Bear
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Caleb Jones
+2020/06/03 08:03:18 Number: 82
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Patrick Russell
+2020/06/03 08:03:18 Number: 52
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kailer Yamamoto
+2020/06/03 08:03:18 Number: 56
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Gaetan Haas
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevan Miller
+2020/06/03 08:03:18 Number: 86
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zdeno Chara
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Patrice Bergeron
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jaroslav Halak
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: David Krejci
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tuukka Rask
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brad Marchand
+2020/06/03 08:03:18 Number: 63
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: John Moore
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Charlie Coyle
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Chris Wagner
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joakim Nordstrom
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sean Kuraly
+2020/06/03 08:03:18 Number: 52
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Torey Krug
+2020/06/03 08:03:18 Number: 47
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Grzelcyk
+2020/06/03 08:03:18 Number: 48
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anton Blidh
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Connor Clifton
+2020/06/03 08:03:18 Number: 75
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Ritchie
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: David Pastrnak
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anders Bjork
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ondrej Kase
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Carlo
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jeremy Lauzon
+2020/06/03 08:03:18 Number: 79
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake DeBrusk
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Charlie McAvoy
+2020/06/03 08:03:18 Number: 73
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Par Lindholm
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Erik Karlsson
+2020/06/03 08:03:18 Number: 65
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dalton Prout
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tomas Hertl
+2020/06/03 08:03:18 Number: 48
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joe Thornton
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brent Burns
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marc-Edouard Vlasic
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Logan Couture
+2020/06/03 08:03:18 Number: 39
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Martin Jones
+2020/06/03 08:03:18 Number: 31
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Evander Kane
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marcus Sorensen
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tim Heed
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Davidson
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Stefan Noesen
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Aaron Dell
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Melker Karlsson
+2020/06/03 08:03:18 Number: 68
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevin Labanc
+2020/06/03 08:03:18 Number: 62
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jacob Middleton
+2020/06/03 08:03:18 Number: 67
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Timo Meier
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Noah Gregor
+2020/06/03 08:03:18 Number: 73
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dylan Gambrell
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mario Ferraro
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Radim Simek
+2020/06/03 08:03:18 Number: 51
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexander True
+2020/06/03 08:03:18 Number: 70
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Antti Suomela
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joel Kellman
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Lean Bergmann
+2020/06/03 08:03:18 Number: 45
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Victor Mete
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake Evans
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Shea Weber
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carey Price
+2020/06/03 08:03:18 Number: 31
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jeff Petry
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Karl Alzner
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Paul Byron
+2020/06/03 08:03:18 Number: 41
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dale Weise
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tomas Tatar
+2020/06/03 08:03:18 Number: 90
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ben Chiarot
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jordan Weal
+2020/06/03 08:03:18 Number: 43
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brendan Gallagher
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Xavier Ouellet
+2020/06/03 08:03:18 Number: 61
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joel Armia
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Phillip Danault
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Charles Hudon
+2020/06/03 08:03:18 Number: 54
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brett Kulak
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Artturi Lehkonen
+2020/06/03 08:03:18 Number: 62
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonathan Drouin
+2020/06/03 08:03:18 Number: 92
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Max Domi
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Christian Folin
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Charlie Lindgren
+2020/06/03 08:03:18 Number: 39
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Suzuki
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vladimir Sobotka
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tage Thompson
+2020/06/03 08:03:18 Number: 72
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Hunwick
+2020/06/03 08:03:18 Number: 48
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kyle Okposo
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Michael Frolik
+2020/06/03 08:03:18 Number: 67
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Wayne Simmonds
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Marcus Johansson
+2020/06/03 08:03:18 Number: 90
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carter Hutton
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Johan Larsson
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jeff Skinner
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Colin Miller
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zemgus Girgensons
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jimmy Vesey
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jake McCabe
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Linus Ullmark
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Rasmus Ristolainen
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Curtis Lazar
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sam Reinhart
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Montour
+2020/06/03 08:03:18 Number: 62
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Victor Olofsson
+2020/06/03 08:03:18 Number: 68
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jack Eichel
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Henri Jokiharju
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Rasmus Dahlin
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Lawrence Pilut
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dominik Kahun
+2020/06/03 08:03:18 Number: 95
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Martin Hanzal
+2020/06/03 08:03:18 Number: 40
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joel Kiviranta
+2020/06/03 08:03:18 Number: 25
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Corey Perry
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joe Pavelski
+2020/06/03 08:03:18 Number: 16
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexander Radulov
+2020/06/03 08:03:18 Number: 47
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Blake Comeau
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrej Sekera
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Roman Polak
+2020/06/03 08:03:18 Number: 45
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anton Khudobin
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrew Cogliano
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ben Bishop
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jamie Benn
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Justin Dowling
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Stephen Johns
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Seguin
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: John Klingberg
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Taylor Fedun
+2020/06/03 08:03:18 Number: 42
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jamie Oleksiak
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Radek Faksa
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Esa Lindell
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mattias Janmark
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jason Dickinson
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Roope Hintz
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Denis Gurianov
+2020/06/03 08:03:18 Number: 34
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Miro Heiskanen
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Bryan Little
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Luca Sbisa
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Blake Wheeler
+2020/06/03 08:03:18 Number: 26
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mathieu Perreault
+2020/06/03 08:03:18 Number: 85
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Letestu
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dmitry Kulikov
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cody Eakin
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Gabriel Bourque
+2020/06/03 08:03:18 Number: 57
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anthony Bitetto
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Laurent Brossoit
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dylan DeMelo
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Lowry
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Logan Shaw
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nicholas Shore
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mark Scheifele
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nathan Beaulieu
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Connor Hellebuyck
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tucker Poolman
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrew Copp
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carl Dahlstrom
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Josh Morrissey
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nikolaj Ehlers
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kyle Connor
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jansen Harkins
+2020/06/03 08:03:18 Number: 58
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jack Roslovic
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mason Appleton
+2020/06/03 08:03:18 Number: 82
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Sami Niku
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Patrik Laine
+2020/06/03 08:03:18 Number: 29
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Neal Pionk
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brent Seabrook
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Calvin de Haan
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrew Shaw
+2020/06/03 08:03:18 Number: 65
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Duncan Keith
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Corey Crawford
+2020/06/03 08:03:18 Number: 50
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jonathan Toews
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Patrick Kane
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zack Smith
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Seeler
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Saad
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Connor Murphy
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Olli Maatta
+2020/06/03 08:03:18 Number: 6
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Malcolm Subban
+2020/06/03 08:03:18 Number: 30
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Slater Koekkoek
+2020/06/03 08:03:18 Number: 68
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dominik Kubalik
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Carpenter
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matthew Highmore
+2020/06/03 08:03:18 Number: 36
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dylan Strome
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex DeBrincat
+2020/06/03 08:03:18 Number: 12
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Nylander
+2020/06/03 08:03:18 Number: 92
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Drake Caggiula
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Lucas Carlsson
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Hagel
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: David Kampf
+2020/06/03 08:03:18 Number: 64
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nicolas Beaudin
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Adam Boqvist
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kirby Dach
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jan Rutta
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Curtis McElhinney
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Braydon Coburn
+2020/06/03 08:03:18 Number: 55
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alex Killorn
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevin Shattenkirk
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pat Maroon
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan McDonagh
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Steven Stamkos
+2020/06/03 08:03:18 Number: 91
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zach Bogosian
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Luke Schenn
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Tyler Johnson
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Victor Hedman
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ondrej Palat
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Blake Coleman
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nikita Kucherov
+2020/06/03 08:03:18 Number: 86
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Barclay Goodrow
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Yanni Gourde
+2020/06/03 08:03:18 Number: 37
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrei Vasilevskiy
+2020/06/03 08:03:18 Number: 88
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cedric Paquette
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Carter Verhaeghe
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brayden Point
+2020/06/03 08:03:18 Number: 21
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Erik Cernak
+2020/06/03 08:03:18 Number: 81
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mitchell Stephens
+2020/06/03 08:03:18 Number: 67
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Anthony Cirelli
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikhail Sergachev
+2020/06/03 08:03:18 Number: 98
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Brandon Dubinsky
+2020/06/03 08:03:18 Number: 17
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Josh Anderson
+2020/06/03 08:03:18 Number: 77
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Seth Jones
+2020/06/03 08:03:18 Number: 3
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dean Kukan
+2020/06/03 08:03:18 Number: 46
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexandre Texier
+2020/06/03 08:03:18 Number: 42
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nathan Gerbe
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Foligno
+2020/06/03 08:03:18 Number: 71
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Riley Nash
+2020/06/03 08:03:18 Number: 20
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Gustav Nyquist
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Cam Atkinson
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: David Savard
+2020/06/03 08:03:18 Number: 58
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Boone Jenner
+2020/06/03 08:03:18 Number: 38
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Scott Harrington
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Murray
+2020/06/03 08:03:18 Number: 27
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Stefan Matteau
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Devin Shore
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Joonas Korpisalo
+2020/06/03 08:03:18 Number: 70
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Oliver Bjorkstrand
+2020/06/03 08:03:18 Number: 28
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Alexander Wennberg
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan MacInnis
+2020/06/03 08:03:18 Number: 49
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Elvis Merzlikins
+2020/06/03 08:03:18 Number: 90
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Zach Werenski
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Gabriel Carlsson
+2020/06/03 08:03:18 Number: 53
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kevin Stenlund
+2020/06/03 08:03:18 Number: 11
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Vladislav Gavrikov
+2020/06/03 08:03:18 Number: 44
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Markus Nutivaara
+2020/06/03 08:03:18 Number: 65
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Andrew Peeke
+2020/06/03 08:03:18 Number: 2
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pierre-Luc Dubois
+2020/06/03 08:03:18 Number: 18
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Emil Bemstrom
+2020/06/03 08:03:18 Number: 52
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Eric Robinson
+2020/06/03 08:03:18 Number: 50
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jakob Lilja
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Yakov Trenin
+2020/06/03 08:03:18 Number: 32
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dan Hamhuis
+2020/06/03 08:03:18 Number: 5
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Pekka Rinne
+2020/06/03 08:03:18 Number: 35
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Korbinian Holzer
+2020/06/03 08:03:18 Number: 22
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Nick Bonino
+2020/06/03 08:03:18 Number: 13
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Kyle Turris
+2020/06/03 08:03:18 Number: 8
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Yannick Weber
+2020/06/03 08:03:18 Number: 7
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Roman Josi
+2020/06/03 08:03:18 Number: 59
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Matt Duchene
+2020/06/03 08:03:18 Number: 95
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Ellis
+2020/06/03 08:03:18 Number: 4
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mattias Ekholm
+2020/06/03 08:03:18 Number: 14
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Craig Smith
+2020/06/03 08:03:18 Number: 15
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Calle Jarnkrok
+2020/06/03 08:03:18 Number: 19
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Austin Watson
+2020/06/03 08:03:18 Number: 51
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Ryan Johansen
+2020/06/03 08:03:18 Number: 92
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Jarred Tinordi
+2020/06/03 08:03:18 Number: 24
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Mikael Granlund
+2020/06/03 08:03:18 Number: 64
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Colin Blackwell
+2020/06/03 08:03:18 Number: 42
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Rocco Grimaldi
+2020/06/03 08:03:18 Number: 23
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Filip Forsberg
+2020/06/03 08:03:18 Number: 9
+2020/06/03 08:03:18 Position: Left Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Colton Sissons
+2020/06/03 08:03:18 Number: 10
+2020/06/03 08:03:18 Position: Center
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Juuse Saros
+2020/06/03 08:03:18 Number: 74
+2020/06/03 08:03:18 Position: Goalie
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Viktor Arvidsson
+2020/06/03 08:03:18 Number: 33
+2020/06/03 08:03:18 Position: Right Wing
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 Player Name: Dante Fabbro
+2020/06/03 08:03:18 Number: 57
+2020/06/03 08:03:18 Position: Defenseman
+2020/06/03 08:03:18 ----------------------
+2020/06/03 08:03:18 took 323.133513ms
+06/03 08:03:09 Number: 40
+2020/06/03 08:03:09 Position: {G Goalie Goalie G}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Alex Stalock
+2020/06/03 08:03:09 Number: 32
+2020/06/03 08:03:09 Position: {G Goalie Goalie G}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Greg Pateryn
+2020/06/03 08:03:09 Number: 29
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jared Spurgeon
+2020/06/03 08:03:09 Number: 46
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Marcus Foligno
+2020/06/03 08:03:09 Number: 17
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Mats Zuccarello
+2020/06/03 08:03:09 Number: 36
+2020/06/03 08:03:09 Position: {R Right Wing Forward RW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Victor Rask
+2020/06/03 08:03:09 Number: 49
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jonas Brodin
+2020/06/03 08:03:09 Number: 25
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Brad Hunt
+2020/06/03 08:03:09 Number: 77
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Alex Galchenyuk
+2020/06/03 08:03:09 Number: 27
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Matt Dumba
+2020/06/03 08:03:09 Number: 24
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Ryan Hartman
+2020/06/03 08:03:09 Number: 38
+2020/06/03 08:03:09 Position: {R Right Wing Forward RW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Kevin Fiala
+2020/06/03 08:03:09 Number: 22
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Ryan Donato
+2020/06/03 08:03:09 Number: 6
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jordan Greenway
+2020/06/03 08:03:09 Number: 18
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Joel Eriksson Ek
+2020/06/03 08:03:09 Number: 14
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Luke Kunin
+2020/06/03 08:03:09 Number: 19
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Victor Mete
+2020/06/03 08:03:09 Number: 53
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jake Evans
+2020/06/03 08:03:09 Number: 71
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Shea Weber
+2020/06/03 08:03:09 Number: 6
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Carey Price
+2020/06/03 08:03:09 Number: 31
+2020/06/03 08:03:09 Position: {G Goalie Goalie G}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jeff Petry
+2020/06/03 08:03:09 Number: 26
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Karl Alzner
+2020/06/03 08:03:09 Number: 27
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Paul Byron
+2020/06/03 08:03:09 Number: 41
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Dale Weise
+2020/06/03 08:03:09 Number: 22
+2020/06/03 08:03:09 Position: {R Right Wing Forward RW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Tomas Tatar
+2020/06/03 08:03:09 Number: 90
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Ben Chiarot
+2020/06/03 08:03:09 Number: 8
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jordan Weal
+2020/06/03 08:03:09 Number: 43
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Brendan Gallagher
+2020/06/03 08:03:09 Number: 11
+2020/06/03 08:03:09 Position: {R Right Wing Forward RW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Xavier Ouellet
+2020/06/03 08:03:09 Number: 61
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Joel Armia
+2020/06/03 08:03:09 Number: 40
+2020/06/03 08:03:09 Position: {R Right Wing Forward RW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Phillip Danault
+2020/06/03 08:03:09 Number: 24
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Charles Hudon
+2020/06/03 08:03:09 Number: 54
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Brett Kulak
+2020/06/03 08:03:09 Number: 77
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Artturi Lehkonen
+2020/06/03 08:03:09 Number: 62
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jonathan Drouin
+2020/06/03 08:03:09 Number: 92
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Max Domi
+2020/06/03 08:03:09 Number: 13
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Christian Folin
+2020/06/03 08:03:09 Number: 32
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Charlie Lindgren
+2020/06/03 08:03:09 Number: 39
+2020/06/03 08:03:09 Position: {G Goalie Goalie G}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Nick Suzuki
+2020/06/03 08:03:09 Number: 14
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Danny DeKeyser
+2020/06/03 08:03:09 Number: 65
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Filip Zadina
+2020/06/03 08:03:09 Number: 11
+2020/06/03 08:03:09 Position: {R Right Wing Forward RW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Dennis Cholowski
+2020/06/03 08:03:09 Number: 21
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Valtteri Filppula
+2020/06/03 08:03:09 Number: 51
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Trevor Daley
+2020/06/03 08:03:09 Number: 83
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Frans Nielsen
+2020/06/03 08:03:09 Number: 81
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jonathan Ericsson
+2020/06/03 08:03:09 Number: 52
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jimmy Howard
+2020/06/03 08:03:09 Number: 35
+2020/06/03 08:03:09 Position: {G Goalie Goalie G}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Justin Abdelkader
+2020/06/03 08:03:09 Number: 8
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Darren Helm
+2020/06/03 08:03:09 Number: 43
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Alex Biega
+2020/06/03 08:03:09 Number: 3
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Jonathan Bernier
+2020/06/03 08:03:09 Number: 45
+2020/06/03 08:03:09 Position: {G Goalie Goalie G}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Sam Gagner
+2020/06/03 08:03:09 Number: 89
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Cody Goloubef
+2020/06/03 08:03:09 Number: 26
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Patrik Nemeth
+2020/06/03 08:03:09 Number: 22
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Luke Glendening
+2020/06/03 08:03:09 Number: 41
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Adam Erne
+2020/06/03 08:03:09 Number: 73
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Madison Bowey
+2020/06/03 08:03:09 Number: 74
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Tyler Bertuzzi
+2020/06/03 08:03:09 Number: 59
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Anthony Mantha
+2020/06/03 08:03:09 Number: 39
+2020/06/03 08:03:09 Position: {R Right Wing Forward RW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Brendan Perlini
+2020/06/03 08:03:09 Number: 29
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Dylan Larkin
+2020/06/03 08:03:09 Number: 71
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Robby Fabbri
+2020/06/03 08:03:09 Number: 14
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Christoffer Ehn
+2020/06/03 08:03:09 Number: 70
+2020/06/03 08:03:09 Position: {C Center Forward C}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Dmytro Timashov
+2020/06/03 08:03:09 Number: 15
+2020/06/03 08:03:09 Position: {L Left Wing Forward LW}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Filip Hronek
+2020/06/03 08:03:09 Number: 17
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 Player Name: Gustav Lindstrom
+2020/06/03 08:03:09 Number: 28
+2020/06/03 08:03:09 Position: {D Defenseman Defenseman D}
+2020/06/03 08:03:09 ----------------------
+2020/06/03 08:03:09 took 543.24986ms
+
