@@ -16,7 +16,7 @@ func main() {
 	DB := postgres.New(&pg.Options{
 		User:     "postgres",
 		Password: "postgres",
-		Database: "todo_dev",
+		Database: "go-todo",
 	})
 	defer DB.Close()
 
