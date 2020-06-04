@@ -16,6 +16,11 @@ func (s *Server) registerUser() http.HandlerFunc {
 			return
 		}
 
-		// user, err := s.domain.Register()
+		if errs := validateRegisterUser(&payload); errs != nil {
+			validationErrorResponse(w, err)
+			return
+		}
+
+		// user, err := s.domain.Register(payload)
 	}
 }

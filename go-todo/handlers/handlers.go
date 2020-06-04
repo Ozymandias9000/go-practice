@@ -60,3 +60,8 @@ func badRequestResponse(w http.ResponseWriter, err error) {
 	response := map[string]string{"error": err.Error()}
 	jsonResponse(w, response, http.StatusBadRequest)
 }
+
+func validationErrorResponse(w http.ResponseWriter, err error) {
+	response := map[string]string{"error": err.Error()}
+	jsonResponse(w, response, http.StatusUnprocessableEntity)
+}
