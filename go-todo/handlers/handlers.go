@@ -1,13 +1,17 @@
 package handlers
 
 import (
+	"context"
 	"encoding/json"
+	"fmt"
 	"go-todo/domain"
+	"log"
 	"net/http"
 	"time"
 
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
+	"gopkg.in/go-playground/validator.v9"
 )
 
 type Server struct {
@@ -62,6 +66,39 @@ func badRequestResponse(w http.ResponseWriter, err error) {
 }
 
 func validationErrorResponse(w http.ResponseWriter, err error) {
-	response := map[string]string{"error": err.Error()}
+	errResponse := make([]string, 0)
+
+	for _, e := range err.(validator.ValidationErrors) {
+		errResponse = append(errResponse, fmt.Sprint(e))
+	}
+
+	response := map[string][]string{"errors": errResponse}
 	jsonResponse(w, response, http.StatusUnprocessableEntity)
+
+}
+
+func validatePayload(next http.HandlerFunc, payload *domain.RegisterPayload) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		err := json.NewDecoder(r.Body).Decode(&payload)
+		log.Printf("%v", payload)
+		if err != nil {
+			badRequestResponse(w, err)
+			return
+		}
+
+		v := validator.New()
+
+		errs := v.Struct(payload)
+
+		if errs != nil {
+			validationErrorResponse(w, errs)
+			return
+		}
+
+		defer r.Body.Close()
+
+		ctx := context.WithValue(r.Context(), "payload", payload)
+
+		next.ServeHTTP(w, r.WithContext(ctx))
+	}
 }
