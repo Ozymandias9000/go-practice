@@ -1,10 +1,10 @@
 package domain
 
 type RegisterPayload struct {
-	Email           string `json:"email" validate:"required,email"`
-	Password        string `json:"password" validate:"required,eqfield=ConfirmPassword"`
-	ConfirmPassword string `json:"confirmPassword" validate:"required,eqfield=Password"`
-	Username        string `json:"username" validate:"required"`
+	Email           string `json:"email" validate:"required,email,min=2,max=50"`
+	Password        string `json:"password" validate:"required,eqfield=ConfirmPassword,min=2,max=50"`
+	ConfirmPassword string `json:"confirmPassword" validate:"required,eqfield=Password,min=2,max=50"`
+	Username        string `json:"username" validate:"required,min=2,max=50"`
 }
 
 func (d *Domain) Register(payload RegisterPayload) (*User, error) {

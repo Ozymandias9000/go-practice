@@ -13,6 +13,7 @@ require (
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/jackc/pgx/v4 v4.6.0
 	github.com/leodido/go-urn v1.2.0 // indirect
+	github.com/lib/pq v1.2.0
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mattn/go-shellwords v1.0.10 // indirect
 	github.com/pelletier/go-toml v1.8.0 // indirect

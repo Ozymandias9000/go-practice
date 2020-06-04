@@ -1,11 +1,9 @@
 package handlers
 
 import (
-	"context"
 	"encoding/json"
 	"fmt"
 	"go-todo/domain"
-	"log"
 	"net/http"
 	"time"
 
@@ -75,30 +73,4 @@ func validationErrorResponse(w http.ResponseWriter, err error) {
 	response := map[string][]string{"errors": errResponse}
 	jsonResponse(w, response, http.StatusUnprocessableEntity)
 
-}
-
-func validatePayload(next http.HandlerFunc, payload *domain.RegisterPayload) http.HandlerFunc {
-	return func(w http.ResponseWriter, r *http.Request) {
-		err := json.NewDecoder(r.Body).Decode(&payload)
-		log.Printf("%v", payload)
-		if err != nil {
-			badRequestResponse(w, err)
-			return
-		}
-
-		v := validator.New()
-
-		errs := v.Struct(payload)
-
-		if errs != nil {
-			validationErrorResponse(w, errs)
-			return
-		}
-
-		defer r.Body.Close()
-
-		ctx := context.WithValue(r.Context(), "payload", payload)
-
-		next.ServeHTTP(w, r.WithContext(ctx))
-	}
 }
