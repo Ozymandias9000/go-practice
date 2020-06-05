@@ -10,36 +10,46 @@ import (
 	"gopkg.in/go-playground/validator.v9"
 )
 
+func validate(w http.ResponseWriter, payload interface{}) error {
+	v := validator.New()
+
+	errs := v.Struct(payload)
+
+	if errs != nil {
+		validationErrorResponse(w, errs)
+		return errs
+	}
+	return nil
+}
+
 func validatePayload(next http.HandlerFunc, p interface{}) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		var payload interface{}
+		var ctx context.Context
 
 		switch p.(type) {
 		case domain.RegisterPayload:
-			payload = &domain.RegisterPayload{}
+			var payload domain.RegisterPayload
+
+			err := json.NewDecoder(r.Body).Decode(&payload)
+
+			if err != nil {
+				badRequestResponse(w, err)
+				return
+			}
+
+			defer r.Body.Close()
+
+			err = validate(w, payload)
+			if err != nil {
+				return
+			}
+
+			ctx = context.WithValue(r.Context(), "payload", payload)
 		default:
 			log.Println("No match found in validatePayload type switch")
-		}
-
-		err := json.NewDecoder(r.Body).Decode(&payload)
-
-		if err != nil {
-			badRequestResponse(w, err)
+			badRequestResponse(w, domain.ErrWrongType)
 			return
 		}
-
-		v := validator.New()
-
-		errs := v.Struct(payload)
-
-		if errs != nil {
-			validationErrorResponse(w, errs)
-			return
-		}
-
-		defer r.Body.Close()
-
-		ctx := context.WithValue(r.Context(), "payload", payload)
 
 		next.ServeHTTP(w, r.WithContext(ctx))
 	}
