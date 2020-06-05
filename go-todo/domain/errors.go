@@ -8,4 +8,5 @@ var (
 	ErrUserAlreadyExists = errors.New("User already exists")
 	ErrNoResult          = errors.New("No result")
 	ErrWrongType         = errors.New("Wrong type passed")
+	ErrUnauthorized      = errors.New("You are not authorized")
 )

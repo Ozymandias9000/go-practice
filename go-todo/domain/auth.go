@@ -1,5 +1,14 @@
 package domain
 
+import (
+	"net/http"
+	"os"
+
+	"github.com/dgrijalva/jwt-go"
+	"github.com/dgrijalva/jwt-go/request"
+	"golang.org/x/crypto/bcrypt"
+)
+
 type RegisterPayload struct {
 	Email           string `json:"email" validate:"required,email,min=2,max=50"`
 	Password        string `json:"password" validate:"required,eqfield=ConfirmPassword,min=2,max=50"`
@@ -38,5 +47,29 @@ func (d *Domain) Register(payload RegisterPayload) (*User, error) {
 }
 
 func (d *Domain) setPassword(password string) (*string, error) {
+	hashedPassword, err := bcrypt.GenerateFromPassword([]byte(password), bcrypt.DefaultCost)
+	if err != nil {
+		return nil, err
+	}
+
+	password = string(hashedPassword)
+
 	return &password, nil
+}
+
+func (d *Domain) ParseToken(w http.ResponseWriter, r *http.Request) (*jwt.Token, error) {
+	tokenString, err := request.AuthorizationHeaderExtractor.ExtractToken(r)
+	if err != nil {
+		return nil, err
+	}
+
+	token, err := jwt.Parse(tokenString, func(jwt *jwt.Token) (interface{}, error) {
+		b := []byte(os.Getenv("JWT_SECRET"))
+		return b, nil
+	})
+	if err != nil {
+		return nil, err
+	}
+
+	return token, nil
 }

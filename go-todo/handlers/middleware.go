@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/dgrijalva/jwt-go"
 	"gopkg.in/go-playground/validator.v9"
 )
 
@@ -53,4 +54,29 @@ func validatePayload(next http.HandlerFunc, p interface{}) http.HandlerFunc {
 
 		next.ServeHTTP(w, r.WithContext(ctx))
 	}
+}
+
+func (s *Server) withUser(next http.HandlerFunc) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		token, err := s.domain.ParseToken(w, r)
+		if err != nil {
+			UnauthorizedResponse(w)
+			return
+		}
+
+		claims, ok := token.Claims.(jwt.MapClaims)
+		if !ok {
+			UnauthorizedResponse(w)
+			return
+		}
+
+		id := int64(claims["id"].(float64))
+
+		user, err := s.domain.DB.UserRepo.GetByID(id)
+
+		ctx := context.WithValue(r.Context(), "currentUser", user)
+
+		next.ServeHTTP(w, r.WithContext(ctx))
+	}
+
 }

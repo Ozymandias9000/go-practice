@@ -46,16 +46,21 @@ func jsonResponse(w http.ResponseWriter, data interface{}, statusCode int) {
 
 	w.WriteHeader(statusCode)
 
-	if data == nil {
-		data = map[string]string{}
+	response := map[string]interface{}{
+		"data": data,
 	}
 
-	if err := json.NewEncoder(w).Encode(data); err != nil {
+	if err := json.NewEncoder(w).Encode(response); err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
 
 	return
+}
+
+func UnauthorizedResponse(w http.ResponseWriter) {
+	response := map[string]string{"error": domain.ErrUnauthorized.Error()}
+	jsonResponse(w, response, http.StatusUnauthorized)
 }
 
 func badRequestResponse(w http.ResponseWriter, err error) {
