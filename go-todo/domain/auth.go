@@ -16,7 +16,7 @@ type RegisterPayload struct {
 	Username        string `json:"username" validate:"required,min=2,max=50"`
 }
 
-func (d *Domain) Register(payload RegisterPayload) (*User, error) {
+func (d *Domain) Register(payload *RegisterPayload) (*User, error) {
 	userExists, err := d.DB.UserRepo.GetByEmail(payload.Email)
 	if userExists != nil {
 		return nil, ErrUserAlreadyExists

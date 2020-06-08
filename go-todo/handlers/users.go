@@ -12,7 +12,7 @@ type authResponse struct {
 
 func (s *Server) registerUser() http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		payload := r.Context().Value("payload").(domain.RegisterPayload)
+		payload := r.Context().Value("payload").(*domain.RegisterPayload)
 
 		user, err := s.domain.Register(payload)
 		if err != nil {

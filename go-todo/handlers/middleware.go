@@ -3,8 +3,6 @@ package handlers
 import (
 	"context"
 	"encoding/json"
-	"go-todo/domain"
-	"log"
 	"net/http"
 
 	"github.com/dgrijalva/jwt-go"
@@ -23,34 +21,23 @@ func validate(w http.ResponseWriter, payload interface{}) error {
 	return nil
 }
 
-func validatePayload(next http.HandlerFunc, p interface{}) http.HandlerFunc {
+func validatePayload(next http.HandlerFunc, payload interface{}) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		var ctx context.Context
+		err := json.NewDecoder(r.Body).Decode(&payload)
 
-		switch p.(type) {
-		case domain.RegisterPayload:
-			var payload domain.RegisterPayload
-
-			err := json.NewDecoder(r.Body).Decode(&payload)
-
-			if err != nil {
-				badRequestResponse(w, err)
-				return
-			}
-
-			defer r.Body.Close()
-
-			err = validate(w, payload)
-			if err != nil {
-				return
-			}
-
-			ctx = context.WithValue(r.Context(), "payload", payload)
-		default:
-			log.Println("No match found in validatePayload type switch")
-			badRequestResponse(w, domain.ErrWrongType)
+		if err != nil {
+			badRequestResponse(w, err)
 			return
 		}
+
+		defer r.Body.Close()
+
+		err = validate(w, payload)
+		if err != nil {
+			return
+		}
+
+		ctx := context.WithValue(r.Context(), "payload", payload)
 
 		next.ServeHTTP(w, r.WithContext(ctx))
 	}
