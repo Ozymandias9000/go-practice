@@ -11,7 +11,7 @@ type authResponse struct {
 }
 
 func (s *Server) registerUser() http.HandlerFunc {
-	return func(w http.ResponseWriter, r *http.Request) {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		payload := r.Context().Value("payload").(*domain.RegisterPayload)
 
 		user, err := s.domain.Register(payload)
@@ -30,7 +30,7 @@ func (s *Server) registerUser() http.HandlerFunc {
 			User:  user,
 			Token: token,
 		}, http.StatusCreated)
-	}
+	})
 }
 
 func (s *Server) getCurrentUser() http.HandlerFunc {

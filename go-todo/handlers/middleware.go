@@ -21,30 +21,33 @@ func validate(w http.ResponseWriter, payload interface{}) error {
 	return nil
 }
 
-func validatePayload(next http.HandlerFunc, payload interface{}) http.HandlerFunc {
-	return func(w http.ResponseWriter, r *http.Request) {
-		err := json.NewDecoder(r.Body).Decode(&payload)
+func validatePayload(payload interface{}) func(next http.Handler) http.Handler {
+	return func(next http.Handler) http.Handler {
+		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+			err := json.NewDecoder(r.Body).Decode(&payload)
 
-		if err != nil {
-			badRequestResponse(w, err)
-			return
-		}
+			if err != nil {
+				badRequestResponse(w, err)
+				return
+			}
 
-		defer r.Body.Close()
+			defer r.Body.Close()
 
-		err = validate(w, payload)
-		if err != nil {
-			return
-		}
+			err = validate(w, payload)
+			if err != nil {
+				return
+			}
 
-		ctx := context.WithValue(r.Context(), "payload", payload)
+			ctx := context.WithValue(r.Context(), "payload", payload)
 
-		next.ServeHTTP(w, r.WithContext(ctx))
+			next.ServeHTTP(w, r.WithContext(ctx))
+		})
 	}
 }
 
-func (s *Server) withUser(next http.HandlerFunc) http.HandlerFunc {
-	return func(w http.ResponseWriter, r *http.Request) {
+func (s *Server) withUser(next http.Handler) http.Handler {
+
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		token, err := s.domain.ParseToken(w, r)
 		if err != nil {
 			UnauthorizedResponse(w)
@@ -64,6 +67,5 @@ func (s *Server) withUser(next http.HandlerFunc) http.HandlerFunc {
 		ctx := context.WithValue(r.Context(), "currentUser", user)
 
 		next.ServeHTTP(w, r.WithContext(ctx))
-	}
-
+	})
 }
