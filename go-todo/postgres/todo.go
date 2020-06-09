@@ -41,6 +41,9 @@ func (t TodoRepo) CreateTodo(todo *domain.Todo) (*domain.Todo, error) {
 func (t TodoRepo) UpdateTodo(todo *domain.Todo) (*domain.Todo, error) {
 	_, err := t.DB.Model(todo).Where(" id = ? ", todo.ID).Returning("*").Update()
 	if err != nil {
+		if errors.Is(err, pg.ErrNoRows) {
+			return nil, domain.ErrNoResult
+		}
 		return nil, err
 	}
 
@@ -50,6 +53,9 @@ func (t TodoRepo) UpdateTodo(todo *domain.Todo) (*domain.Todo, error) {
 func (t TodoRepo) DeleteTodo(todo *domain.Todo) (*domain.Todo, error) {
 	_, err := t.DB.Model(todo).Where(" id = ? ", todo.ID).Delete()
 	if err != nil {
+		if errors.Is(err, pg.ErrNoRows) {
+			return nil, domain.ErrNoResult
+		}
 		return nil, err
 	}
 

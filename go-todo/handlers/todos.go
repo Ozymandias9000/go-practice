@@ -57,10 +57,7 @@ func (s *Server) updateTodo() http.HandlerFunc {
 		payload := r.Context().Value("payload").(*domain.UpdateTodoPayload)
 		todo := r.Context().Value("todo").(*domain.Todo)
 
-		p := *payload
-		t := *todo
-
-		todo, err := s.domain.UpdateTodo(p, t)
+		todo, err := s.domain.UpdateTodo(*payload, *todo)
 		if err != nil {
 			badRequestResponse(w, err)
 			return
@@ -76,9 +73,7 @@ func (s *Server) deleteTodo() http.HandlerFunc {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		todo := r.Context().Value("todo").(*domain.Todo)
 
-		t := *todo
-
-		todo, err := s.domain.DeleteTodo(t)
+		todo, err := s.domain.DeleteTodo(*todo)
 		if err != nil {
 			badRequestResponse(w, err)
 			return
