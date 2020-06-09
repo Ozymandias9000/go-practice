@@ -59,6 +59,7 @@ func (d *Domain) setPassword(password string) (*string, error) {
 
 func (d *Domain) ParseToken(w http.ResponseWriter, r *http.Request) (*jwt.Token, error) {
 	tokenString, err := request.AuthorizationHeaderExtractor.ExtractToken(r)
+
 	if err != nil {
 		return nil, err
 	}

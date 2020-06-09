@@ -32,6 +32,15 @@ func (d *Domain) CreateTodo(payload *CreateTodoPayload, currentUserID int64) (*T
 	return todo, nil
 }
 
+func (d *Domain) GetAllTodos() ([]*Todo, error) {
+	todos, err := d.DB.TodoRepo.GetAllTodos()
+	if err != nil {
+		return nil, err
+	}
+
+	return todos, nil
+}
+
 func (d *Domain) GetTodoByID(id int64) (*Todo, error) {
 	todo, err := d.DB.TodoRepo.GetByID(id)
 	if err != nil {

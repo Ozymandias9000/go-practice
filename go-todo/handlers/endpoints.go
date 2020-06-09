@@ -14,7 +14,8 @@ func (s Server) setupEndpoints(r *chi.Mux) {
 		})
 		r.Route("/todos", func(r chi.Router) {
 			r.Use(s.withUser)
-			r.With(validatePayload(&domain.CreateTodoPayload{})).Post("/create", s.createTodo())
+			r.Get("/", s.getAllTodos())
+			r.With(validatePayload(&domain.CreateTodoPayload{})).Post("/", s.createTodo())
 			r.Route("/{id}", func(r chi.Router) {
 				r.Use(s.withTodo)
 

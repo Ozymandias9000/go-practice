@@ -9,6 +9,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/go-chi/chi v4.1.2+incompatible
+	github.com/go-chi/cors v1.1.1
 	github.com/go-kit/kit v0.10.0
 	github.com/go-pg/pg/v9 v9.1.6
 	github.com/go-playground/universal-translator v0.17.0 // indirect

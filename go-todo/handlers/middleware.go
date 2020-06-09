@@ -52,6 +52,7 @@ func validatePayload(payload interface{}) func(next http.Handler) http.Handler {
 
 func (s *Server) withUser(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+
 		token, err := s.domain.ParseToken(w, r)
 		if err != nil {
 			UnauthorizedResponse(w)

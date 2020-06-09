@@ -30,6 +30,24 @@ func (s *Server) createTodo() http.HandlerFunc {
 	})
 }
 
+type allTodosResponse struct {
+	Todos []*domain.Todo `json:"todos"`
+}
+
+func (s *Server) getAllTodos() http.HandlerFunc {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		todos, err := s.domain.GetAllTodos()
+		if err != nil {
+			badRequestResponse(w, err)
+			return
+		}
+
+		jsonResponse(w, &allTodosResponse{
+			Todos: todos,
+		}, http.StatusOK)
+	})
+}
+
 func (s *Server) getTodoByID() http.HandlerFunc {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		idString := chi.URLParam(r, "id")

@@ -8,6 +8,7 @@ type UserRepo interface {
 }
 
 type TodoRepo interface {
+	GetAllTodos() ([]*Todo, error)
 	GetByID(id int64) (*Todo, error)
 	CreateTodo(todo *Todo) (*Todo, error)
 	UpdateTodo(todo *Todo) (*Todo, error)

@@ -15,6 +15,20 @@ func NewTodoRepo(DB *pg.DB) *TodoRepo {
 	return &TodoRepo{DB}
 }
 
+func (t TodoRepo) GetAllTodos() ([]*domain.Todo, error) {
+	todos := make([]*domain.Todo, 0)
+
+	err := t.DB.Model(&todos).Select()
+	if err != nil {
+		if errors.Is(err, pg.ErrNoRows) {
+			return nil, domain.ErrNoResult
+		}
+		return nil, err
+	}
+
+	return todos, nil
+}
+
 func (t TodoRepo) GetByID(id int64) (*domain.Todo, error) {
 	todo := new(domain.Todo)
 
