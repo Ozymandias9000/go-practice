@@ -12,6 +12,7 @@ require (
 	github.com/go-kit/kit v0.10.0
 	github.com/go-pg/pg/v9 v9.1.6
 	github.com/go-playground/universal-translator v0.17.0 // indirect
+	github.com/gorilla/mux v1.7.3
 	github.com/imdario/mergo v0.3.9 // indirect
 	github.com/jackc/pgx/v4 v4.6.0
 	github.com/leodido/go-urn v1.2.0 // indirect

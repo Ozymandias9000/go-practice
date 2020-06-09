@@ -3,9 +3,12 @@ package handlers
 import (
 	"context"
 	"encoding/json"
+	"go-todo/domain"
 	"net/http"
+	"strconv"
 
 	"github.com/dgrijalva/jwt-go"
+	"github.com/go-chi/chi"
 	"gopkg.in/go-playground/validator.v9"
 )
 
@@ -38,7 +41,9 @@ func validatePayload(payload interface{}) func(next http.Handler) http.Handler {
 				return
 			}
 
-			ctx := context.WithValue(r.Context(), "payload", payload)
+			p := payload
+
+			ctx := context.WithValue(r.Context(), "payload", p)
 
 			next.ServeHTTP(w, r.WithContext(ctx))
 		})
@@ -46,7 +51,6 @@ func validatePayload(payload interface{}) func(next http.Handler) http.Handler {
 }
 
 func (s *Server) withUser(next http.Handler) http.Handler {
-
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		token, err := s.domain.ParseToken(w, r)
 		if err != nil {
@@ -65,6 +69,29 @@ func (s *Server) withUser(next http.Handler) http.Handler {
 		user, err := s.domain.DB.UserRepo.GetByID(id)
 
 		ctx := context.WithValue(r.Context(), "currentUser", user)
+
+		next.ServeHTTP(w, r.WithContext(ctx))
+	})
+}
+
+func (s *Server) withTodo(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		todo := new(domain.Todo)
+		idString := chi.URLParam(r, "id")
+
+		todoID, err := strconv.ParseInt(idString, 10, 64)
+		if err != nil {
+			badRequestResponse(w, err)
+			return
+		}
+
+		todo, err = s.domain.DB.TodoRepo.GetByID(todoID)
+		if err != nil {
+			badRequestResponse(w, err)
+			return
+		}
+
+		ctx := context.WithValue(r.Context(), "todo", todo)
 
 		next.ServeHTTP(w, r.WithContext(ctx))
 	})

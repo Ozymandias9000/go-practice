@@ -20,7 +20,7 @@ func main() {
 	})
 	defer DB.Close()
 
-	domainDB := domain.DB{UserRepo: postgres.NewUserRepo(DB)}
+	domainDB := domain.DB{UserRepo: postgres.NewUserRepo(DB), TodoRepo: postgres.NewTodoRepo(DB)}
 
 	d := &domain.Domain{DB: domainDB}
 
