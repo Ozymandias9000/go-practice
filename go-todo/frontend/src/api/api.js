@@ -11,3 +11,15 @@ export const addNewTodo = async (text) => {
     throw e;
   }
 };
+
+export const updateTodo = async (updatedTodo) => {
+  try {
+    const {
+      data: { todo },
+    } = await http.patch(`/todos/${updatedTodo.id}`, updatedTodo);
+
+    return todo;
+  } catch (e) {
+    throw e;
+  }
+};

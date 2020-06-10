@@ -1,16 +1,13 @@
 <script>
   import { onMount } from "svelte";
   import { http } from "./utils/http";
-  import { addNewTodo } from "./api/api";
+  import * as api from "./api/api";
 
   let todos = [];
   let newTodoValue = "";
 
   onMount(async () => {
     try {
-      const jwt =
-        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTE3MzgxNzIsImlkIjoxOX0.d4iEl1F7yxRhOp8pYooAnNpwHGklFtkTm6bsAMoOMEg";
-
       const { data } = await http.get("/todos");
 
       todos = data.todos;
@@ -21,9 +18,26 @@
 
   const handleNewTodo = async () => {
     try {
-      const todo = await addNewTodo(newTodoValue);
+      const todo = await api.addNewTodo(newTodoValue);
       console.log(todos, todo);
       todos = [...todos, todo];
+    } catch (e) {
+      console.error(e); // eslint-disable-line
+    }
+  };
+
+  const handleUpdateTodo = todo => async () => {
+    try {
+      const updatedTodo = await api.updateTodo(todo);
+
+      todos = todos.map(t => {
+        if (t.id === todo.id) {
+          return updatedTodo;
+        }
+
+        return t;
+      });
+      console.log(todos, updatedTodo);
     } catch (e) {
       console.error(e); // eslint-disable-line
     }
@@ -41,7 +55,8 @@
   {#each todos as todo}
     <div>
       {todo.body}
-      <button>
+      <button
+        on:click={handleUpdateTodo({ ...todo, completed: !todo.completed })}>
         {#if todo.completed}√{:else}x{/if}
       </button>
     </div>

@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const jwt =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTE3MzgxNzIsImlkIjoxOX0.d4iEl1F7yxRhOp8pYooAnNpwHGklFtkTm6bsAMoOMEg";
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTE4MTI2NTksImlkIjoyMH0.7cT5jXxulDnGze9QoqH4i8G_vXzeQit-kphsU2TtWx8";
 
 const http = axios.create({
   baseURL: "http://localhost:8000/api/v1",

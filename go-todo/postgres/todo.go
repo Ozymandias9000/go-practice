@@ -16,7 +16,7 @@ func NewTodoRepo(DB *pg.DB) *TodoRepo {
 }
 
 func (t TodoRepo) GetAllTodos() ([]*domain.Todo, error) {
-	todos := make([]*domain.Todo, 0)
+	todos := []*domain.Todo{}
 
 	err := t.DB.Model(&todos).Select()
 	if err != nil {
